@@ -18,7 +18,7 @@ meta:
 	ADDON_NAME = ofxBoost
 	ADDON_DESCRIPTION = Boost provides free peer-reviewed portable C++ source libraries for openFrameworks
 	ADDON_AUTHOR = Katsuyoshi Hotta
-	ADDON_TAGS = "The openFrameworks for Boost 1.6.１ library"
+	ADDON_TAGS = "The openFrameworks for Boost 1.5.9 library"
 	ADDON_URL = http://www.boost.org/
 
 common:
